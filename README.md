@@ -15,7 +15,7 @@
 * [メガネ](./koisuru/megane.py)
 * [キュート衣装](./koisuru/cute.py)
 * [セクシー衣装](./koisuru/sexyisho.py)
-* [カチューシャ](./koisuru/catyush.py)
+* [カチューシャ](./koisuru/catyusha.py)
 
 
 ##プログラミングで彼女を作る

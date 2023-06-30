@@ -6,16 +6,16 @@
 
 ## 恋するハッカソン
 * [ショートヘア](./koisuru/shotohear.py)
-* [ロングヘア](./koiruru/longhear.py)
-* [ポニーテール](./koiruru/ponite.py)
-* [ツインテール](./koiruru/tuinn.py)
-* [おさげ](./koiruru/osage.py)
-* [タレ目](./koiruru/tareme.py)
-* [ツリ目](./koiruru/turime.py)
-* [メガネ](./koiruru/megane.py)
-* [キュート衣装](./koiruru/cute.py)
-* [セクシー衣装](./koiruru/sexyisho.py)
-* [カチューシャ](./koiruru/catyush.py)
+* [ロングヘア](./koisuru/longhear.py)
+* [ポニーテール](./koisuru/ponite.py)
+* [ツインテール](./koisuru/tuinn.py)
+* [おさげ](./koisuru/osage.py)
+* [タレ目](./koisuru/tareme.py)
+* [ツリ目](./koisuru/turime.py)
+* [メガネ](./koisuru/megane.py)
+* [キュート衣装](./koisuru/cute.py)
+* [セクシー衣装](./koisuru/sexyisho.py)
+* [カチューシャ](./koisuru/catyush.py)
 
 
 ##プログラミングで彼女を作る
